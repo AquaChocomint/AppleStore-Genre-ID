@@ -36,6 +36,7 @@ You can set manually genre id to your audio file with Mp3tag.
 | 1022     | Classical Crossover | 
 | 1029     | Orchestra           | 
 | 1048     | House               | 
+| 1057     | Downtempo           | 
 | 1058     | Electronica         | 
 | 1131     | Adult Contemporary  | 
 | 1133     | Pop/Rock            | 
@@ -55,7 +56,8 @@ You can set manually genre id to your audio file with Mp3tag.
 | 1203     | Africa              | 
 | 1206     | South Africa        | 
 | 1207     | Hard Bop            | 
-| 1299     | Russian             | 
+| 1299     | Russian             |
 | 100002   | Brass & Woodwinds   | 
+| 100014   | Dubstep             | 
 | 100032   | Video Game          | 
 | 50000064 | French Pop          | 
